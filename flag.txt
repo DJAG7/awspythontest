@@ -1,0 +1,65 @@
+### You require the ability to analyze a customer's clickstream data on a website so they can do behavioral analysis. Your customer needs to know what sequence of pages and ads their customer clicked on. This data will be used in real time to modify the page layouts as customers click through the site to increase stickiness and advertising click-through. Which option meets the requirements for captioning and analyzing this data?
+- [ ] - [ ] Log clicks in weblogs by URL store to Amazon S3, and then analyze with Elastic MapReduce.
+- [x] - [x] Push web clicks by session to Amazon Kinesis and analyze behavior using Kinesis workers.
+- [ ] - [ ] Write click events directly to Amazon Redshift and then analyze with SQL.
+- [ ] - [ ] Publish web clicks by session to an Amazon SQS queue men periodically drain these events to Amazon RDS and analyze with SQL.
+### You require the ability to analyze a customer's clickstream data on a website so they can do behavioral analysis. Your customer needs to know what sequence of pages and ads their customer clicked on. This data will be used in real time to modify the page layouts as customers click through the site to increase stickiness and advertising click-through. Which option meets the requirements for captioning and analyzing this data?
+- [ ] - [ ] Log clicks in weblogs by URL store to Amazon S3, and then analyze with Elastic MapReduce.
+- [x] - [x] Push web clicks by session to Amazon Kinesis and analyze behavior using Kinesis workers.
+- [ ] - [ ] Write click events directly to Amazon Redshift and then analyze with SQL.
+- [ ] - [ ] Publish web clicks by session to an Amazon SQS queue men periodically drain these events to Amazon RDS and analyze with SQL.
+### You require the ability to analyze a customer's clickstream data on a website so they can do behavioral analysis. Your customer needs to know what sequence of pages and ads their customer clicked on. This data will be used in real time to modify the page layouts as customers click through the site to increase stickiness and advertising click-through. Which option meets the requirements for captioning and analyzing this data?
+- [ ] - [ ] Log clicks in weblogs by URL store to Amazon S3, and then analyze with Elastic MapReduce.
+- [x] - [x] Push web clicks by session to Amazon Kinesis and analyze behavior using Kinesis workers.
+- [ ] - [ ] Write click events directly to Amazon Redshift and then analyze with SQL.
+- [ ] - [ ] Publish web clicks by session to an Amazon SQS queue men periodically drain these events to Amazon RDS and analyze with SQL.
+### You require the ability to analyze a customer's clickstream data on a website so they can do behavioral analysis. Your customer needs to know what sequence of pages and ads their customer clicked on. This data will be used in real time to modify the page layouts as customers click through the site to increase stickiness and advertising click-through. Which option meets the requirements for captioning and analyzing this data?
+- [ ] - [ ] Log clicks in weblogs by URL store to Amazon S3, and then analyze with Elastic MapReduce.
+- [x] - [x] Push web clicks by session to Amazon Kinesis and analyze behavior using Kinesis workers.
+- [ ] - [ ] Write click events directly to Amazon Redshift and then analyze with SQL.
+- [ ] - [ ] Publish web clicks by session to an Amazon SQS queue men periodically drain these events to Amazon RDS and analyze with SQL.
+### You require the ability to analyze a customer's clickstream data on a website so they can do behavioral analysis. Your customer needs to know what sequence of pages and ads their customer clicked on. This data will be used in real time to modify the page layouts as customers click through the site to increase stickiness and advertising click-through. Which option meets the requirements for captioning and analyzing this data?
+- [ ] - [ ] Log clicks in weblogs by URL store to Amazon S3, and then analyze with Elastic MapReduce.
+- [x] - [x] Push web clicks by session to Amazon Kinesis and analyze behavior using Kinesis workers.
+- [ ] - [ ] Write click events directly to Amazon Redshift and then analyze with SQL.
+- [ ] - [ ] Publish web clicks by session to an Amazon SQS queue men periodically drain these events to Amazon RDS and analyze with SQL.
+### You require the ability to analyze a customer's clickstream data on a website so they can do behavioral analysis. Your customer needs to know what sequence of pages and ads their customer clicked on. This data will be used in real time to modify the page layouts as customers click through the site to increase stickiness and advertising click-through. Which option meets the requirements for captioning and analyzing this data?
+- [ ] - [ ] Log clicks in weblogs by URL store to Amazon S3, and then analyze with Elastic MapReduce.
+- [x] - [x] Push web clicks by session to Amazon Kinesis and analyze behavior using Kinesis workers.
+- [ ] - [ ] Write click events directly to Amazon Redshift and then analyze with SQL.
+- [ ] - [ ] Publish web clicks by session to an Amazon SQS queue men periodically drain these events to Amazon RDS and analyze with SQL.
+### You require the ability to analyze a customer's clickstream data on a website so they can do behavioral analysis. Your customer needs to know what sequence of pages and ads their customer clicked on. This data will be used in real time to modify the page layouts as customers click through the site to increase stickiness and advertising click-through. Which option meets the requirements for captioning and analyzing this data?
+- [ ] - [ ] Log clicks in weblogs by URL store to Amazon S3, and then analyze with Elastic MapReduce.
+- [x] - [x] Push web clicks by session to Amazon Kinesis and analyze behavior using Kinesis workers.
+- [ ] - [ ] Write click events directly to Amazon Redshift and then analyze with SQL.
+- [ ] - [ ] Publish web clicks by session to an Amazon SQS queue men periodically drain these events to Amazon RDS and analyze with SQL.
+### You require the ability to analyze a customer's clickstream data on a website so they can do behavioral analysis. Your customer needs to know what sequence of pages and ads their customer clicked on. This data will be used in real time to modify the page layouts as customers click through the site to increase stickiness and advertising click-through. Which option meets the requirements for captioning and analyzing this data?
+- [ ] - [ ] Log clicks in weblogs by URL store to Amazon S3, and then analyze with Elastic MapReduce.
+- [x] - [x] Push web clicks by session to Amazon Kinesis and analyze behavior using Kinesis workers.
+- [ ] - [ ] Write click events directly to Amazon Redshift and then analyze with SQL.
+- [ ] - [ ] Publish web clicks by session to an Amazon SQS queue men periodically drain these events to Amazon RDS and analyze with SQL.
+### You require the ability to analyze a customer's clickstream data on a website so they can do behavioral analysis. Your customer needs to know what sequence of pages and ads their customer clicked on. This data will be used in real time to modify the page layouts as customers click through the site to increase stickiness and advertising click-through. Which option meets the requirements for captioning and analyzing this data?
+- [ ] - [ ] Log clicks in weblogs by URL store to Amazon S3, and then analyze with Elastic MapReduce.
+- [x] - [x] Push web clicks by session to Amazon Kinesis and analyze behavior using Kinesis workers.
+- [ ] - [ ] Write click events directly to Amazon Redshift and then analyze with SQL.
+- [ ] - [ ] Publish web clicks by session to an Amazon SQS queue men periodically drain these events to Amazon RDS and analyze with SQL.
+### You require the ability to analyze a customer's clickstream data on a website so they can do behavioral analysis. Your customer needs to know what sequence of pages and ads their customer clicked on. This data will be used in real time to modify the page layouts as customers click through the site to increase stickiness and advertising click-through. Which option meets the requirements for captioning and analyzing this data?
+- [ ] - [ ] Log clicks in weblogs by URL store to Amazon S3, and then analyze with Elastic MapReduce.
+- [x] - [x] Push web clicks by session to Amazon Kinesis and analyze behavior using Kinesis workers.
+- [ ] - [ ] Write click events directly to Amazon Redshift and then analyze with SQL.
+- [ ] - [ ] Publish web clicks by session to an Amazon SQS queue men periodically drain these events to Amazon RDS and analyze with SQL.
+### You require the ability to analyze a customer's clickstream data on a website so they can do behavioral analysis. Your customer needs to know what sequence of pages and ads their customer clicked on. This data will be used in real time to modify the page layouts as customers click through the site to increase stickiness and advertising click-through. Which option meets the requirements for captioning and analyzing this data?
+- [ ] - [ ] Log clicks in weblogs by URL store to Amazon S3, and then analyze with Elastic MapReduce.
+- [x] - [x] Push web clicks by session to Amazon Kinesis and analyze behavior using Kinesis workers.
+- [ ] - [ ] Write click events directly to Amazon Redshift and then analyze with SQL.
+- [ ] - [ ] Publish web clicks by session to an Amazon SQS queue men periodically drain these events to Amazon RDS and analyze with SQL.
+### You require the ability to analyze a customer's clickstream data on a website so they can do behavioral analysis. Your customer needs to know what sequence of pages and ads their customer clicked on. This data will be used in real time to modify the page layouts as customers click through the site to increase stickiness and advertising click-through. Which option meets the requirements for captioning and analyzing this data?
+- [ ] - [ ] Log clicks in weblogs by URL store to Amazon S3, and then analyze with Elastic MapReduce.
+- [x] - [x] Push web clicks by session to Amazon Kinesis and analyze behavior using Kinesis workers.
+- [ ] - [ ] Write click events directly to Amazon Redshift and then analyze with SQL.
+- [ ] - [ ] Publish web clicks by session to an Amazon SQS queue men periodically drain these events to Amazon RDS and analyze with SQL.
+### You require the ability to analyze a customer's clickstream data on a website so they can do behavioral analysis. Your customer needs to know what sequence of pages and ads their customer clicked on. This data will be used in real time to modify the page layouts as customers click through the site to increase stickiness and advertising click-through. Which option meets the requirements for captioning and analyzing this data?
+- [ ] - [ ] Log clicks in weblogs by URL store to Amazon S3, and then analyze with Elastic MapReduce.
+- [x] - [x] Push web clicks by session to Amazon Kinesis and analyze behavior using Kinesis workers.
+- [ ] - [ ] Write click events directly to Amazon Redshift and then analyze with SQL.
+- [ ] - [ ] Publish web clicks by session to an Amazon SQS queue men periodically drain these events to Amazon RDS and analyze with SQL.
